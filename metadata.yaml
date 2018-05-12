@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2646
     wikipedia: http://en.wikipedia.org/wiki/Lewis_H._Morgan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45950#Ancient-SocietyResearches-in-the-Lines-of-Human-Progress-from-Savagery-through-Barbarism-to-C_
 gutenberg_issued: '2014-06-13'
 gutenberg_type: Text
 identifiers:
